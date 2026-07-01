@@ -1,3 +1,15 @@
 header{
-    background-color: rgb(from color r g b) 
+   background-color: rgb(31, 62, 199);
+   color: rgb(247, 213, 22);
+   text-align: center;
+   max-width: 800px;
+   margin: 0 auto;
 }
+main {
+   background-color: rgb(110, 173, 228);
+   color: rgb(250, 210, 33);
+   text-align: center;
+   max-width: 800px;
+   margin: 0 auto;
+}
+
